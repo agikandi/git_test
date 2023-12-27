@@ -3,3 +3,5 @@ Hello, World!
 This is a check to see if changes are made!
 
 Removing last change, aaand...let's go!
+
+Adding one more line to see how all this works, and so as to write a looong commit message describing what I've done, all with a subject and body, the whole shebang!!!
